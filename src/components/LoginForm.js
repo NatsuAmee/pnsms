@@ -21,7 +21,7 @@ function LoginForm() {
   return (
     <div className='bg-white mt-48 lg:w-3/12 md:w-4/12 w-6/12 h-auto rounded-md drop-shadow-lg py-4'>
       <div>
-        <h1 className='text-slate-800 text-3xl font-bold mb-6'>PNSMS</h1>
+        <h1 className='text-slate-800 text-3xl font-bold mb-6'>jopajpojaspoj</h1>
         <div className=''>
           <form className='grid auto-rows-auto justify-items-center' onSubmit={formik.handleSubmit}>
             <div className='grid grid-cols-10 border rounded-md text-slate-800 border-slate-200 items-center mb-3 w-10/12'>
